@@ -12,4 +12,4 @@ after that, just running this command
 2. go mod vendor
 3. go run main.go --http=true
 
-and happy use this code!
+and happy use this code with the postman collection!r
