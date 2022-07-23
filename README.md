@@ -8,6 +8,8 @@ Before You Want Run This Code, You Should clone this repository on your local
 
 after that, just running this command
 
-go run main.go --http=true
+1. go mod tidy
+2. go mod vendor
+3. go run main.go --http=true
 
 and happy use this code!
