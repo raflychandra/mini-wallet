@@ -1,0 +1,7 @@
+app:
+  env: "local"
+  name: "go-mini-wallet"
+  port: "80"
+  host: "localhost"
+wallet:
+  key-signature: "miniwalletsecretkeyABCDE"
